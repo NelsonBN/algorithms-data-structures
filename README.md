@@ -4,6 +4,13 @@ This repository will contain implementations of various algorithms and data stru
 The idea is to have a source of reference for the most common algorithms and data structures, so that we can study and learn from them from theory to practice.
 
 
+## Sorting algorithms
+
+- [Bubble sort](https://github.com/NelsonBN/algorithms-data-structures-bubble-sort)
+
+
+## Other algorithms
+
 - [Heap](https://github.com/NelsonBN/algorithms-data-structures-heap)
 - [Binary search](https://github.com/NelsonBN/algorithms-data-structures-binary-search)
 - [Dijkistra](https://github.com/NelsonBN/algorithms-data-structures-dijkistra)
