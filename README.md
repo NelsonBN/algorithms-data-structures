@@ -12,6 +12,7 @@ The idea is to have a source of reference for the most common algorithms and dat
 
 - [Bubble sort](https://github.com/NelsonBN/algorithms-data-structures-bubble-sort)
 - [Insertion sort](https://github.com/NelsonBN/algorithms-data-structures-insertion-sort)
+- [Selection sort](https://github.com/NelsonBN/algorithms-data-structures-selection-sort)
 
 
 ## Other algorithms
