@@ -6,6 +6,7 @@ The idea is to have a source of reference for the most common algorithms and dat
 
 ## Fundamental data structures
 - [Linked list](https://github.com/NelsonBN/algorithms-data-structures-linked-list)
+- [Hash table](https://github.com/NelsonBN/algorithms-data-structures-hashtable)
 
 
 ## Sorting algorithms
