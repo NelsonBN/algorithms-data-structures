@@ -10,6 +10,10 @@ The idea is to have a source of reference for the most common algorithms and dat
 - [Stack](https://github.com/NelsonBN/algorithms-data-structures-stack)
 
 
+# Techniques
+- [Recursion](https://github.com/NelsonBN/algorithms-data-structures-recursion)
+
+
 ## Sorting Algorithms
 
 - [Bubble sort](https://github.com/NelsonBN/algorithms-data-structures-bubble-sort)
