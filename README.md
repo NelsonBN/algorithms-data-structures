@@ -10,7 +10,12 @@ The idea is to have a source of reference for the most common algorithms and dat
 - [Stack](https://github.com/NelsonBN/algorithms-data-structures-stack)
 
 
-# Techniques
+## Other Data Structures
+
+- [Trie](https://github.com/NelsonBN/algorithms-data-structures-trie)
+
+
+## Techniques
 - [Recursion](https://github.com/NelsonBN/algorithms-data-structures-recursion)
 
 
