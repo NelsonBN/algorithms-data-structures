@@ -11,11 +11,6 @@ The idea is to have a source of reference for the most common algorithms and dat
 - [Queue](https://github.com/NelsonBN/algorithms-data-structures-queue)
 
 
-## Other Data Structures
-
-- [Trie](https://github.com/NelsonBN/algorithms-data-structures-trie)
-
-
 ## Techniques
 - [Recursion](https://github.com/NelsonBN/algorithms-data-structures-recursion)
 
@@ -25,6 +20,12 @@ The idea is to have a source of reference for the most common algorithms and dat
 - [Bubble sort](https://github.com/NelsonBN/algorithms-data-structures-bubble-sort)
 - [Insertion sort](https://github.com/NelsonBN/algorithms-data-structures-insertion-sort)
 - [Selection sort](https://github.com/NelsonBN/algorithms-data-structures-selection-sort)
+
+
+## Trees
+
+- [Trie](https://github.com/NelsonBN/algorithms-data-structures-trie)
+- [Binary Search Tree (BST)](https://github.com/NelsonBN/algorithms-data-structures-binary-search-tree)
 
 
 ## Other Algorithms
