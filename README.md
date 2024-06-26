@@ -5,14 +5,17 @@ The idea is to have a source of reference for the most common algorithms and dat
 
 
 ## Fundamental Data Structures
+
 - [Linked list](https://github.com/NelsonBN/algorithms-data-structures-linked-list)
 - [Hash table](https://github.com/NelsonBN/algorithms-data-structures-hashtable)
 - [Stack](https://github.com/NelsonBN/algorithms-data-structures-stack)
 - [Queue](https://github.com/NelsonBN/algorithms-data-structures-queue)
 
 
+
 ## Techniques
 - [Recursion](https://github.com/NelsonBN/algorithms-data-structures-recursion)
+
 
 
 ## Sorting Algorithms
@@ -22,14 +25,16 @@ The idea is to have a source of reference for the most common algorithms and dat
 - [Selection sort](https://github.com/NelsonBN/algorithms-data-structures-selection-sort)
 
 
+
 ## Trees
 
 - [Trie](https://github.com/NelsonBN/algorithms-data-structures-trie)
 - [Binary Search Tree (BST)](https://github.com/NelsonBN/algorithms-data-structures-binary-search-tree)
+- [Binary Heap](https://github.com/NelsonBN/algorithms-data-structures-binary-heap)
+
 
 
 ## Other Algorithms
 
-- [Heap](https://github.com/NelsonBN/algorithms-data-structures-heap)
 - [Binary search](https://github.com/NelsonBN/algorithms-data-structures-binary-search)
 - [Dijkistra](https://github.com/NelsonBN/algorithms-data-structures-dijkistra)
