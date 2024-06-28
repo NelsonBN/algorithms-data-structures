@@ -24,6 +24,7 @@ The idea is to have a source of reference for the most common algorithms and dat
 - [Insertion sort](https://github.com/NelsonBN/algorithms-data-structures-insertion-sort)
 - [Selection sort](https://github.com/NelsonBN/algorithms-data-structures-selection-sort)
 - [Heap sort](https://github.com/NelsonBN/algorithms-data-structures-heap-sort)
+- [Merge sort](https://github.com/NelsonBN/algorithms-data-structures-merge-sort)
 
 
 
