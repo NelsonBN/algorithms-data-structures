@@ -25,6 +25,7 @@ The idea is to have a source of reference for the most common algorithms and dat
 - [Selection sort](https://github.com/NelsonBN/algorithms-data-structures-selection-sort)
 - [Heap sort](https://github.com/NelsonBN/algorithms-data-structures-heap-sort)
 - [Merge sort](https://github.com/NelsonBN/algorithms-data-structures-merge-sort)
+- [Shell sort](https://github.com/NelsonBN/algorithms-data-structures-shell-sort)
 - [Stable vs Unstable sorting algorithms](https://github.com/NelsonBN/algorithms-data-structures-stable-vs-unstable-sort-algos)
 
 
