@@ -39,7 +39,12 @@ The idea is to have a source of reference for the most common algorithms and dat
 
 
 
+## Graphs
+- [Dijkistra](https://github.com/NelsonBN/algorithms-data-structures-dijkistra)
+- [Bellman-Ford](https://github.com/NelsonBN/algorithms-data-structures-bellman-ford)
+
+
+
 ## Other Algorithms
 
 - [Binary search](https://github.com/NelsonBN/algorithms-data-structures-binary-search)
-- [Dijkistra](https://github.com/NelsonBN/algorithms-data-structures-dijkistra)
