@@ -40,6 +40,7 @@ The idea is to have a source of reference for the most common algorithms and dat
 
 
 ## Graphs
+- [Graphs](https://github.com/NelsonBN/algorithms-data-structures-graphs)
 
 ### SSSP
 - [Dijkistra](https://github.com/NelsonBN/algorithms-data-structures-dijkistra)
