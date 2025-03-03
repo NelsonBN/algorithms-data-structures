@@ -41,6 +41,7 @@ The idea is to have a source of reference for the most common algorithms and dat
 
 ## Graphs
 - [Graphs Representation](https://github.com/NelsonBN/algorithms-data-structures-graphs-representation)
+- [Graphs Traversal](https://github.com/NelsonBN/algorithms-data-structures-graph-traversal)
 
 ### SSSP
 - [Dijkstra](https://github.com/NelsonBN/algorithms-data-structures-dijkstra)
