@@ -50,6 +50,9 @@ The idea is to have a source of reference for the most common algorithms and dat
 ### Finding Paths
 - [A-star (A*)](https://github.com/NelsonBN/algorithms-data-structures-a-star)
 
+### Topological Sort
+- [Kahn](https://github.com/NelsonBN/algorithms-data-structures-kahn)
+
 
 ## Other Algorithms
 
