@@ -51,6 +51,7 @@ The idea is to have a source of reference for the most common algorithms and dat
 - [A-star (A*)](https://github.com/NelsonBN/algorithms-data-structures-a-star)
 
 ### Topological Sort
+- [Topological Sort with DFS](https://github.com/NelsonBN/algorithms-data-structures-topological-sorting-dfs)
 - [Kahn](https://github.com/NelsonBN/algorithms-data-structures-kahn)
 
 
