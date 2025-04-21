@@ -56,6 +56,7 @@ The idea is to have a source of reference for the most common algorithms and dat
 
 ### MST
 - [Kruskal](https://github.com/NelsonBN/algorithms-data-structures-kruskal)
+- [Prim](https://github.com/NelsonBN/algorithms-data-structures-prim)
 
 
 ## Other Algorithms
