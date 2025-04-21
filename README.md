@@ -54,7 +54,7 @@ The idea is to have a source of reference for the most common algorithms and dat
 - [Topological Sort with DFS](https://github.com/NelsonBN/algorithms-data-structures-topological-sorting-dfs)
 - [Kahn](https://github.com/NelsonBN/algorithms-data-structures-kahn)
 
-### MST
+### MST (Minimum Spanning Tree)
 - [Kruskal](https://github.com/NelsonBN/algorithms-data-structures-kruskal)
 - [Prim](https://github.com/NelsonBN/algorithms-data-structures-prim)
 
