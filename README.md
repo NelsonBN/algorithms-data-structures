@@ -43,7 +43,7 @@ The idea is to have a source of reference for the most common algorithms and dat
 - [Graphs Representation](https://github.com/NelsonBN/algorithms-data-structures-graphs-representation)
 - [Graphs Traversal](https://github.com/NelsonBN/algorithms-data-structures-graph-traversal)
 
-### SSSP
+### SSSP (Single Source Shortest Path)
 - [Dijkstra](https://github.com/NelsonBN/algorithms-data-structures-dijkstra)
 - [Bellman-Ford](https://github.com/NelsonBN/algorithms-data-structures-bellman-ford)
 
