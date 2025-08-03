@@ -10,6 +10,7 @@ The idea is to have a source of reference for the most common algorithms and dat
 - [Hash table](https://github.com/NelsonBN/algorithms-data-structures-hashtable)
 - [Stack](https://github.com/NelsonBN/algorithms-data-structures-stack)
 - [Queue](https://github.com/NelsonBN/algorithms-data-structures-queue)
+- [Skip list](https://github.com/NelsonBN/algorithms-data-structures-skip-list)
 
 
 
